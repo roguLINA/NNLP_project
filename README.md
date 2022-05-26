@@ -10,7 +10,7 @@
 1. Sergey Petrakov
 1. Valerii Kornilov
 
-__Ranking Approach to Multilingual Question Answering over Knowledge Graphs.pdf__: pdf file with our approach description
+__Ranking_Approach_to_Multilingual_Question_Answering_over_Knowledge_Graphs.pdf__: pdf file with our approach description
 
 __qald-challenge-solution-final.ipynb__: notebook which produces our final submission, should work in "Run all" mode
 
