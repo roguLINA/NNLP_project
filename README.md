@@ -4,7 +4,7 @@
 
 ## Task 1: Multilingual Question Answering over Knowledge GraphsPermalink
 
-### Participants (Skolkovo Institute of Science and Technology, Skoltech):
+### Participants:
 1. Nikita Baramiia
 1. Alina Rogulina
 1. Sergey Petrakov
