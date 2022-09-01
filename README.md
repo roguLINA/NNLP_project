@@ -16,4 +16,4 @@ __qald-challenge-solution-final.ipynb__: notebook which produces our final submi
 
 https://gerbil-qa.aksw.org/gerbil/experiment?id=202205210032: Macro F1 QALD = 0.4281
 
-All data as well as pretrained model and submission json file will be provided for results replication upon request (nikita.baramiia@skoltech.ru or by other emails in pdf file)
+All data as well as pretrained model and submission json file will be provided for results replication upon request (see emails in pdf file)
